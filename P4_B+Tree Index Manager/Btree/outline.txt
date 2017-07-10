@@ -1,0 +1,13 @@
+Miao Yang , QiMeng Han, Group 8
+
+## Added additional test cases in main.cpp
+
+We have added the following additional test in the void intTests() method
+
+checkPassFail(intScan(&index,-2008,GT,2008,LT),2008)
+checkPassFail(intScan(&index, -100,GT, -1,LT),0)
+checkPassFail(intScan(&index,1000,GTE,4000,LT), 3000)
+
+
+##  Design report
+Our design report is in Design Report.pdf
